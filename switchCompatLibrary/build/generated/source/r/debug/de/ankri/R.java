@@ -217,7 +217,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name de.ankri:switchMinWidth
         */
-        public static final int Switch_switchMinWidth = 6;
+        public static int Switch_switchMinWidth = 6;
         /**
           <p>This symbol is the offset where the {@link de.ankri.R.attr#switchPadding}
           attribute's value can be found in the {@link #Switch} array.
@@ -233,7 +233,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name de.ankri:switchPadding
         */
-        public static final int Switch_switchPadding = 7;
+        public static int Switch_switchPadding = 7;
         /**
           <p>This symbol is the offset where the {@link de.ankri.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #Switch} array.
@@ -243,7 +243,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name de.ankri:switchTextAppearance
         */
-        public static final int Switch_switchTextAppearance = 5;
+        public static int Switch_switchTextAppearance = 5;
         /**
           <p>This symbol is the offset where the {@link de.ankri.R.attr#textOff}
           attribute's value can be found in the {@link #Switch} array.
@@ -257,7 +257,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name de.ankri:textOff
         */
-        public static final int Switch_textOff = 3;
+        public static int Switch_textOff = 3;
         /**
           <p>This symbol is the offset where the {@link de.ankri.R.attr#textOn}
           attribute's value can be found in the {@link #Switch} array.
@@ -271,7 +271,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name de.ankri:textOn
         */
-        public static final int Switch_textOn = 2;
+        public static int Switch_textOn = 2;
         /**
           <p>This symbol is the offset where the {@link de.ankri.R.attr#thumb}
           attribute's value can be found in the {@link #Switch} array.
@@ -281,7 +281,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name de.ankri:thumb
         */
-        public static final int Switch_thumb = 0;
+        public static int Switch_thumb = 0;
         /**
           <p>This symbol is the offset where the {@link de.ankri.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #Switch} array.
@@ -297,7 +297,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name de.ankri:thumbTextPadding
         */
-        public static final int Switch_thumbTextPadding = 4;
+        public static int Switch_thumbTextPadding = 4;
         /**
           <p>This symbol is the offset where the {@link de.ankri.R.attr#track}
           attribute's value can be found in the {@link #Switch} array.
@@ -307,7 +307,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name de.ankri:track
         */
-        public static final int Switch_track = 1;
+        public static int Switch_track = 1;
         /** Attributes that can be used with a TextAppearanceSwitch.
            <p>Includes the following attributes:</p>
            <table>
@@ -348,7 +348,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name de.ankri:fontFamily
         */
-        public static final int TextAppearanceSwitch_fontFamily = 4;
+        public static int TextAppearanceSwitch_fontFamily = 4;
         /**
           <p>This symbol is the offset where the {@link de.ankri.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearanceSwitch} array.
@@ -362,7 +362,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name de.ankri:textAllCaps
         */
-        public static final int TextAppearanceSwitch_textAllCaps = 8;
+        public static int TextAppearanceSwitch_textAllCaps = 8;
         /**
           <p>This symbol is the offset where the {@link de.ankri.R.attr#textColor}
           attribute's value can be found in the {@link #TextAppearanceSwitch} array.
@@ -377,7 +377,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name de.ankri:textColor
         */
-        public static final int TextAppearanceSwitch_textColor = 0;
+        public static int TextAppearanceSwitch_textColor = 0;
         /**
           <p>This symbol is the offset where the {@link de.ankri.R.attr#textColorHighlight}
           attribute's value can be found in the {@link #TextAppearanceSwitch} array.
@@ -392,7 +392,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name de.ankri:textColorHighlight
         */
-        public static final int TextAppearanceSwitch_textColorHighlight = 5;
+        public static int TextAppearanceSwitch_textColorHighlight = 5;
         /**
           <p>This symbol is the offset where the {@link de.ankri.R.attr#textColorHint}
           attribute's value can be found in the {@link #TextAppearanceSwitch} array.
@@ -407,7 +407,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name de.ankri:textColorHint
         */
-        public static final int TextAppearanceSwitch_textColorHint = 6;
+        public static int TextAppearanceSwitch_textColorHint = 6;
         /**
           <p>This symbol is the offset where the {@link de.ankri.R.attr#textColorLink}
           attribute's value can be found in the {@link #TextAppearanceSwitch} array.
@@ -422,7 +422,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name de.ankri:textColorLink
         */
-        public static final int TextAppearanceSwitch_textColorLink = 7;
+        public static int TextAppearanceSwitch_textColorLink = 7;
         /**
           <p>This symbol is the offset where the {@link de.ankri.R.attr#textSize}
           attribute's value can be found in the {@link #TextAppearanceSwitch} array.
@@ -438,7 +438,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name de.ankri:textSize
         */
-        public static final int TextAppearanceSwitch_textSize = 1;
+        public static int TextAppearanceSwitch_textSize = 1;
         /**
           <p>This symbol is the offset where the {@link de.ankri.R.attr#textStyle}
           attribute's value can be found in the {@link #TextAppearanceSwitch} array.
@@ -448,7 +448,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name de.ankri:textStyle
         */
-        public static final int TextAppearanceSwitch_textStyle = 2;
+        public static int TextAppearanceSwitch_textStyle = 2;
         /**
           <p>This symbol is the offset where the {@link de.ankri.R.attr#typeface}
           attribute's value can be found in the {@link #TextAppearanceSwitch} array.
@@ -458,6 +458,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name de.ankri:typeface
         */
-        public static final int TextAppearanceSwitch_typeface = 3;
+        public static int TextAppearanceSwitch_typeface = 3;
     };
 }

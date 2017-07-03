@@ -61,8 +61,8 @@ public class ServerService extends Service {
         Intent notificationIntent = new Intent();
         PendingIntent contentIntent = PendingIntent.getActivity(
                 getApplicationContext(), 0, notificationIntent, 0);
-        notification.setLatestEventInfo(context, contentTitle, contentText,
-                contentIntent);
+        /*notification.setLatestEventInfo(context, contentTitle, contentText,
+                contentIntent);*/
 
         noti.notify(143, notification);
 
