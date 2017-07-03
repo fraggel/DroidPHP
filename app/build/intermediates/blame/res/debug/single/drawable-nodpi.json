@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/fraggel/AndroidStudioProjects/DroidPHP/app/build/intermediates/res/merged/debug/drawable-nodpi/spinner_outer.png",
+        "source": "/home/fraggel/AndroidStudioProjects/DroidPHP/app/src/main/res/drawable-nodpi/spinner_outer.png"
+    },
+    {
+        "merged": "/home/fraggel/AndroidStudioProjects/DroidPHP/app/build/intermediates/res/merged/debug/drawable-nodpi/spinner_inner.png",
+        "source": "/home/fraggel/AndroidStudioProjects/DroidPHP/app/src/main/res/drawable-nodpi/spinner_inner.png"
+    }
+]
